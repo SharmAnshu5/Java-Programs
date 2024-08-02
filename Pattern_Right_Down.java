@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Pattern_Right_Down {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in); // takes input
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter number of rows: ");
         int rows = sc.nextInt();
 
